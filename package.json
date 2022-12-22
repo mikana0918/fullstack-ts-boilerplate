@@ -1,0 +1,9 @@
+{
+  "name": "fullstack-ts-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mikana0918/fullstack-ts-boilerplate.git",
+  "author": "mikana0918 <shogo.kusuhara@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
